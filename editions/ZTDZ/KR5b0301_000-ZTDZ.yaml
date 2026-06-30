@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5b0301/ZTDZ/v1/juan/0
+seq: 0
+front:
+  text: 仙苑編珠序惟四
+  hash: sha256:50d0ee6b7207e256225145b99f92dc196e9d2eab3c9125cc89fffeca571a1c15
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5b0301_SJB_000-110021a, image: sjb/11/110021a.png}
+body:
+  text: 天台山道士王松年撰松年竊詳三古之前百王之後修眞學道證果成仙者何代無人抱朴子云秦大夫阮倉所記有數百人劉向撰列仙傳止於七十一人葛洪復撰神仙傳有一百一十七人松年伏按登眞隠訣及元始上眞記道學傳自開闢以來皆是聖帝明王作神仙宗爲造化祖何者如盤古爲元始天王天皇氏爲扶桑大帝伏羲氏爲青帝祝融氏爲赤帝軒轅氏爲黃帝少昊氏爲白帝顓頊氏爲黒帝至於髙辛唐虞夏禹周穆漢文並在仙籍松年又㝷眞誥棲觀傳靈驗傳八眞傳十二眞君傳近自唐梁已降接於聞見者得一百三十二人伏以誥傳文繁卒難㝷究松年輙斆䝉求四字比韻撮其樞要箋註於下目爲仙苑編珠謹序
+  hash: sha256:4ffcdcd13264ac9408555547588d383cf7cb5ceb6282de6b7fccd7fc54be3ce2
+metadata:
+  title: 仙苑編珠
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+  date: '2015-08-29 00:15:59.653636'
+  source:
+    repository: kanripo
+    path: KR5b0301/KR5b0301_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:2632ae3ee3c3b3c3ca5846c7a0c37c6722cc2e0db457adc5bd3736ae7715334d
